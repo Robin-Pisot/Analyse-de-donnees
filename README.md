@@ -3,4 +3,4 @@ Ci-joint mon rapport d'activité en .pdf. J'ai essayé de joindre le code, mais 
 Vous aurez l'occasion de lire que ça ne s'est pas très bien passé.
 Je vous souhaites bien du courage pour la correction.
 Cordialement, et en vous souhaitant de bonnes fêtes.
-R.Pisot
+R.Pisot Master GéoSuds
